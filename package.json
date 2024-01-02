@@ -1,0 +1,21 @@
+{
+  "name": "mylibrary",
+  "version": "1.0.0",
+  "description": "some common js functionalities",
+  "main": "my-library.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karthickgaurdian/commonjsfunctions.git"
+  },
+  "keywords": [
+    "commonjs",
+    "javascript",
+    "shared",
+    "functions"
+  ],
+  "author": "M.karthick",
+  "license": "ISC"
+}
